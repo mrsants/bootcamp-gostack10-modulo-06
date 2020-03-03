@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface bootcamp_gostack10_modulo_06Tests : XCTestCase
+@interface modulo06Tests : XCTestCase
 
 @end
 
-@implementation bootcamp_gostack10_modulo_06Tests
+@implementation modulo06Tests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
