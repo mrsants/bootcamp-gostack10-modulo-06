@@ -31,7 +31,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-06`;
+2. Entre na pasta rodando `cd bootcamp-gostack10-modulo-06`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn react-native run-ios` ou `yarn react-native run-android` dependendo do SO.
 
