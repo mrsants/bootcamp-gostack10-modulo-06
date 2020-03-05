@@ -1,4 +1,4 @@
-package com.modulo06;
+package com.bootcamp_gostack10_modulo_06;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "modulo06";
+    return "bootcamp_gostack10_modulo_06";
   }
 
     @Override

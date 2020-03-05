@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.modulo06"
+        applicationId "com.bootcamp_gostack10_modulo_06"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

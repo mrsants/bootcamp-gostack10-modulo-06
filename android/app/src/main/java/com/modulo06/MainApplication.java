@@ -1,4 +1,4 @@
-package com.modulo06;
+package com.bootcamp_gostack10_modulo_06;
 
 import android.app.Application;
 import android.content.Context;

@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface modulo06Tests : XCTestCase
+@interface bootcamp_gostack10_modulo_06Tests : XCTestCase
 
 @end
 
-@implementation modulo06Tests
+@implementation bootcamp_gostack10_modulo_06Tests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
@@ -59,7 +59,7 @@
       return NO;
     }];
   }
-  
+
 #ifdef DEBUG
   RCTSetLogFunction(RCTDefaultLogFunction);
 #endif
